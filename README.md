@@ -1,5 +1,3 @@
 # profile
 
-#Hire Me!
-
-#QA Engineer
+#QA Software Engineer
